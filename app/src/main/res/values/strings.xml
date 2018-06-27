@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AXSImageApp</string>
+    <string name="service_error">Unexpected Error! Try again</string>
+</resources>
